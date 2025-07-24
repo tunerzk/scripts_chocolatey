@@ -1,9 +1,9 @@
-New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Terraform
-New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Notes
-New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Homework
-New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Classes
-New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Books
-New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class6.5\GCP\Files
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7.5\GCP\Terraform
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7.5\GCP\Notes
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7.5\GCP\Homework
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7.5\GCP\Classes
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7.5\GCP\Books
+New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7.5\GCP\Files
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Terraform
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Notes
 New-Item -ItemType Directory -Force -Path C:\users\$env:username\Documents\TheoWAF\class7\AWS\Homework
