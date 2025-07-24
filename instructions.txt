@@ -4,7 +4,7 @@ These instructions imply that you have already followed the first steps outlined
 
 1. Go to the "chocoInstall" folder; both new and returning students should run the installs for any upcoming classes. 
 2. Right click on the trigger.bat file in the folder, and click on "Run as Admin"
-3. Exercise patience and let the installs finish; this may take 30-45 minutes, and upwards of 30 GB of disk space. Zoom and other programs 
+3. Exercise patience and let the installs finish; this may take 30-45 minutes, and upwards of 30 GB of disk space. Zoom and other programs WILL RESTART during the install, so if on a Zoom call, do not panic, just rejoin the original call once Zoom is listed as finished. 
 4. Refer back to the Class 7 install document (https://docs.google.com/document/d/1EEzlOOEgU5ZjVcte9PB8CcQd2VuMfshuf7D-ZBlbd8I/edit?usp=sharing) when the installs are finished (aka when the PowerShell or Command Prompt window disappears).
 
 
