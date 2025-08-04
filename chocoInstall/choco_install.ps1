@@ -16,7 +16,7 @@ Start-Transcript -Path "Logs\chocoInstall$(Get-Date -UFormat "%Y-%m-%d@%Hh-%Mm-%
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy unrestricted
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-choco install -y googlechrome brave 7zip zoom sysinternals vim vscode vlc chocolateygui chocolatey-core.extension choco-upgrade-all-at-startup notepadplusplus telegram wireguard ublockorigin-chrome curl wget anki --params "/CreateDesktopIcon" git python3 terraform terragrunt hashicorp-sentinel opentofu kubernetes-cli k0s k0sctl k9s kubectx kubens kubernetes-helm kubernetes-kompose make jq istioctl kustomize eksctl golang rust  docker-cli docker-desktop docker-compose awscli azure-cli gcloudsdk --ignore-checksums openssl openjdk zap wireshark grafana prometheus burp-suite-free-edition nmap trivy obsidian
+choco install -y googlechrome brave 7zip zoom sysinternals vim vscode vlc chocolateygui chocolatey-core.extension choco-upgrade-all-at-startup notepadplusplus telegram wireguard ublockorigin-chrome curl wget anki --params "/CreateDesktopIcon" git python3 terraform terragrunt hashicorp-sentinel opentofu kubernetes-cli k0s k0sctl k9s kubectx kubens kubernetes-helm kubernetes-kompose make jq istioctl kustomize eksctl warp-terminal golang rust  docker-cli docker-desktop docker-compose awscli azure-cli gcloudsdk --ignore-checksums openssl openjdk zap wireshark grafana prometheus burp-suite-free-edition nmap trivy obsidian
 
 # choco install -y anaconda3 discord datadog-agent k3d k6 minikube rancher-desktop
 # choco install -y notion nessus-agent
